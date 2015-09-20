@@ -1,0 +1,14 @@
+algoritma pseudocode Akar persamaan kuadrat
+start
+Input A ≠ 0 (Integers) if A= 0 then write ('bukan persamaan kuadrat'}
+Input B {Integers)
+Input C (Integers)
+Disk (B*B)-(4*A*C)
+Print:
+If Disk > 0 then x1 (-B+sqrt(disk)/2*A)
+else if Disk = 0 then x1(-B/2*a)
+x2=x1
+else if disk < 0 then write {'akar imajiner')
+end if
+write {x1,x2)
+End
